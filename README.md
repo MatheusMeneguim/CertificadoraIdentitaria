@@ -95,7 +95,7 @@ Abaixo estão os principais endpoints disponíveis na API:
 O sistema utiliza o *Firebase Firestore* (em nuvem). Não é necessária a instalação de um SGBD local, mas é *obrigatória a configuração das credenciais*.
 
 *⚠️ IMPORTANTE:* Por segurança, os arquivos de chave privada não estão neste repositório.
-1.  Obtenha o arquivo credenciais_projeto.zip (enviado em anexo na entrega da tarefa ou via link do Drive disponibilizado).
+1.  Obtenha o arquivo credenciais_projeto.zip (via link do Drive disponibilizado).
 2.  Extraia o arquivo *serviceAccountKey.json*.
 3.  Extraia o arquivo *.env*.
 4.  Coloque ambos os arquivos dentro da pasta: server/config/.
